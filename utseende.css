@@ -1,0 +1,24 @@
+@import "./node_modules/nes.css/css/nes.css";
+
+@font-face {
+  font-family: "nessFont";
+  src: url("images/PressStart2P-Regular.ttf");
+ }
+
+
+body {
+  background-image: url(images/darkNight.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  
+}
+
+p {
+  font-family: "nessFont";
+}
+
+/* .nes-progress {
+  height: 25px;
+} */
+
